@@ -1,0 +1,13 @@
+100/0.1
+110/8.7
+35/(0.8*8.7)
+110/(0.8*8.7)
+100/)0.8*8.765)
+100/(0.8*8.765)
+3*3*2*2*2*3*2
+library(sdtoolkit)
+sd.start()
+setw(pwd/analyse)
+setwd(pwd/analyse)
+setwd(/Users/quentin/Documents/analyseDnte/strategyModel/analyse)
+setwd(Users/quentin/Documents/analyseDnte/strategyModel/analyse)

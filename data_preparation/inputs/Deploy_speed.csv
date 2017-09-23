@@ -1,0 +1,11 @@
+Technology;Capacity
+onshore;4
+PV;10
+coal;4
+CCGT;4
+TAC;4
+nuc_retrofit;10
+nuc_new;4
+# Maximum deployment speed;
+# Unit: GW/year;
+# Nuc_retrofit can be high as it is limited by the decomissioning of historical reactors;

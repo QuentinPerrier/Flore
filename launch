@@ -1,0 +1,30 @@
+#!/bin/sh
+
+##############################
+
+# Prepare data
+
+cd data_preparation/code
+Rscript code.R
+rm Rplots.pdf
+cd -
+
+##############################
+
+## Copy data to model inputs 
+echo "Copying prepared data to model inputs"
+rm -rf model/inputs/*
+cp -r data_preparation/outputs/*.csv model/inputs/
+
+## Copy data to documentation
+echo "Copying pdf figures to the documentation folder"
+cp -r data_preparation/outputs/*.pdf documentation/figures
+
+##############################
+
+# Run model
+
+cd model/code
+bash batch.sh
+
+

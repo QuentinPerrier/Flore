@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1503907690850.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "42C5859E",
+    "lastKnownWriteTime" : 7378127007000821766,
+    "last_content_update" : 1503907690850,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "EA7BBA68",
+        "caption" : "CO2price",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=CO2price&cache_key=EA7BBA68",
+        "displayedObservations" : 108,
+        "environment" : "",
+        "object" : "CO2price",
+        "preview" : 0,
+        "totalObservations" : 108,
+        "variables" : 3
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

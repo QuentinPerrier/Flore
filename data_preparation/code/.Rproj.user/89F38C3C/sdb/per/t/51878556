@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1505555621188.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "51878556",
+    "lastKnownWriteTime" : 4674649088,
+    "last_content_update" : 1505555621188,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "23DD739D",
+        "caption" : "PV",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=PV&cache_key=23DD739D",
+        "displayedObservations" : 1008,
+        "environment" : "",
+        "object" : "PV",
+        "preview" : 0,
+        "totalObservations" : 1008,
+        "variables" : 8
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

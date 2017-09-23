@@ -1,0 +1,17 @@
+Technology;Capacity
+onshore;367
+PV;39
+coal;4810
+CCGT;6121
+TAC;6670
+river;10314,1
+lake;8213,66
+step;4965
+nuc_hist;63010
+nuc_retrofit;0
+nuc_new;0
+# Installed capacity in France ;
+# Unit: MW;
+# Source: RTE;
+# Link: http://clients.rte-france.com/lang/fr/visiteurs/vie/prod/parc_reference.jsp;
+# NB: the installed capacity of nuclear is equal to the sum of installed reactors in another file;

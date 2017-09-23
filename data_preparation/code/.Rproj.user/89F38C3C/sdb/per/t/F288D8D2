@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1503910617890.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F288D8D2",
+    "lastKnownWriteTime" : 8589934591,
+    "last_content_update" : 1503910617890,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "D1CAABF5",
+        "caption" : "RTE",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=RTE&cache_key=D1CAABF5",
+        "displayedObservations" : 8760,
+        "environment" : "",
+        "object" : "RTE",
+        "preview" : 0,
+        "totalObservations" : 8760,
+        "variables" : 40
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

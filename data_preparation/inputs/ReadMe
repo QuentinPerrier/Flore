@@ -1,0 +1,6 @@
+# eCO2mix_RTE
+
+Open the file 'eCO2mix_RTE_Annuel-Definitif.xls" with LibreOffice, with "Windows-1252/WinLatin1" encoding and Tab delimiter.
+
+Then save it as a csv, with comma delimiter and UTF-8 encoding.
+
